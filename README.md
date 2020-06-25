@@ -1,4 +1,4 @@
-# flutterdemo
+# Assignment Flutter project
 
 A new Flutter application.
 
